@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "blerg": "^0.0.3",
+    "jest": "^27.5.1"
+  },
+  "name": "ms_chrome-extension_delphinus_tep_online_part-time_2022_4",
+  "description": "## Learning Competencies",
+  "version": "1.0.0",
+  "main": "popup.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Chrome-extension_Delphinus_Tep_Online_Part-time_2022_4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Chrome-extension_Delphinus_Tep_Online_Part-time_2022_4/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Chrome-extension_Delphinus_Tep_Online_Part-time_2022_4#readme"
+}
